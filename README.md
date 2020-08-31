@@ -1,5 +1,5 @@
 # Modelling lower limb sockets through Statistical Shape analysis
-A repository containing examples of transtibial and transfemoral sockets generated using a Statistical Shape Model.
+A repository containing examples of transtibial and transfemural sockets generated using a Statistical Shape Model.
 
 ## Folder Structure
 * Transtibial: 100 .npy files
