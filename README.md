@@ -1,12 +1,8 @@
 # Modelling lower limb sockets through Statistical Shape analysis
 A repository containing examples, in pointcloud format, of transtibial and transfemoral sockets generated using a Statistical Shape Model. 
 
-## Folder Structure
-* Transtibial: 100 .npy files
-* Transfemoral: 100 .npy files
-
 ## Shape Generation
-These artificial shapes were as part of the work described in the article "Modelling lower limb sockets through Statistical Shape analysis", up for consideration in BIBM 2020 conference.
+These artificial shapes were a part of the work described in the article "Modelling lower limb sockets through Statistical Shape analysis", up for consideration in BIBM 2020 conference.
 
 They were built from two Statistical Shape Models (one pertaining the transtibial, and another the transfemoral sockets), trained on 30 transtibial sockets and 21 transfemoral sockets which were acquired through a laser-based 3D inner socket shape scanner (INSIGHT<sup>TM</sup> Scanner from [Adapttech](https://www.adapttech.eu/)). Before the model generation, the sockets from the left leg were mirrored, thus all provided examples will be right leg sockets. The new shapes were generated according to the formula:
 
@@ -15,6 +11,12 @@ They were built from two Statistical Shape Models (one pertaining the transtibia
 Where `F` is the new shape, `M` is the number of principal components considered, `PC` is the principal component and `b` is a weight factor. The weight factors were randomly chosen from plausible ranges, as defined by orthoprosthetists. 
 
 Due to a preprocessing stage, the transtibial examples have 4,731 points, while transfemoral examples have 11,487 points. 
+
+## Folder Structure
+* Transtibial: 100 .npy files
+* Transfemoral: 100 .npy files
+
+
 
 ## Socket Examples
 ![alt text](augmentation.png?raw=true)
