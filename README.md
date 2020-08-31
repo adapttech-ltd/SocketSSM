@@ -2,7 +2,7 @@ _Supplementary material to the paper "Modelling lower limb sockets through Stati
 
 # Modelling lower limb sockets through Statistical Shape analysis
 
-This repository containing examples, in pointcloud format, of transtibial and transfemoral sockets generated using a Statistical Shape Model. 
+This repository containing examples, in pointcloud format, of transtibial and transfemoral sockets generated using Statistical Shape Models. 
 
 ## Shape Generation
 These artificial shapes were a part of the work described in the article "Modelling lower limb sockets through Statistical Shape analysis", up for consideration in BIBM 2020 conference.
