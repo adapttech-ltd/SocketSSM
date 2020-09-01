@@ -1,4 +1,4 @@
-_Supplementary material to the paper "Modelling lower limb sockets through Statistical Shape analysis", submitted for the [BIBM 2020 conference](https://ieeebibm.org/BIBM2020/)._
+_Supplementary material to the paper "Modelling lower limb sockets through Statistical Shape analysis", submitted to the [BIBM 2020 conference](https://ieeebibm.org/BIBM2020/)._
 
 # Modelling lower limb sockets through Statistical Shape analysis
 
