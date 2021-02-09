@@ -1,4 +1,4 @@
-_Supplementary material to the paper "Embedding anatomical characteristics in 3D models of lower-limb sockets through statistical shape modelling", submitted to the [VISAPP 2021 conference](http://www.visapp.visigrapp.org/)._
+_Supplementary material to the paper "Embedding anatomical characteristics in 3D models of lower-limb sockets through statistical shape modelling", accepted at the [VISAPP 2021 conference](http://www.visapp.visigrapp.org/)._ Check the abstract [here](https://www.insticc.org/node/TechnicalProgram/visigrapp/2021/presentationDetails/103398).
 
 # Modelling lower limb sockets through Statistical Shape analysis
 
